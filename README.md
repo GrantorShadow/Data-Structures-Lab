@@ -1,2 +1,2 @@
 # Data-Structures-Lab
-A repository to house all DS Lab Assignments
+Course assignments for Data Structures at VIT Pune 
